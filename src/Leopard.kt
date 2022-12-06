@@ -1,0 +1,3 @@
+open class Leopard:Tiger() {
+
+}
